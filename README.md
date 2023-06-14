@@ -1,2 +1,2 @@
-# Python-Oerators
+# Python-Operators
 
